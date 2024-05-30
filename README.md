@@ -46,5 +46,7 @@ Prerequisites
 -A modern web browser
 
 ->index.html: Contains the HTML structure of the application.
+
 ->style.css: Contains the CSS styles for the application, including dynamic background styles.
+
 ->app.js: Contains the JavaScript code for handling user input, and updating the UI.
