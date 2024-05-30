@@ -1,25 +1,25 @@
 # MiniGame
 Tic-Tac-Toe and Rock-Paper-Scissors
 
-##Overview
+Overview
 This repository contains two classic mini-games: Tic-Tac-Toe and Rock-Paper-Scissors. Both games are implemented as web applications and provide a simple and interactive user experience.
 
-##Projects
+Projects
 1. Tic-Tac-Toe
 A traditional Tic-Tac-Toe game that allows two players to compete against each other.
 
-##Features
+Features
 -Two-player mode
 -Simple and intuitive user interface
 -Responsive design
 -Active scoreboard
 
-##Technologies Used
+Technologies Used
 -HTML5
 -CSS3
 -JavaScript
 
-##Usage
+Usage
 Open the Tic-Tac-Toe game.
 Click on a cell to make a move.
 Alternate turns between players until someone wins or the game ends in a draw.
@@ -27,14 +27,14 @@ Alternate turns between players until someone wins or the game ends in a draw.
 2. Rock-Paper-Scissors
 A classic Rock-Paper-Scissors game where you can play against the computer.
 
-##Features
+Features
 -Play against the computer
 -Randomized computer moves
 -Responsive design
 -Technologies Used
 -Active Scoreboard
 
-##HTML5
+HTML5
 -CSS3
 -JavaScript
 -Usage
@@ -42,7 +42,7 @@ A classic Rock-Paper-Scissors game where you can play against the computer.
 -Click on Rock, Paper, or Scissors to make your move.
 -The computer will randomly select its move, and the winner will be displayed.
 
-##Prerequisites
+Prerequisites
 -A modern web browser
 
 ->index.html: Contains the HTML structure of the application.
